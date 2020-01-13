@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo Rio HD">
+    <display-name lang="pt">Globo Rio HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <channel id="Telecine Premium">
     <display-name lang="pt">Telecine Premium</display-name>
     <url>http://www.netcombo.com.br</url>
@@ -23,6 +27,30 @@
   <channel id="Telecine Cult">
     <display-name lang="pt">Telecine Cult</display-name>
     <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult HD">
+    <display-name lang="pt">Telecine Cult HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="pt">Telecine Fun HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch HD">
+    <display-name lang="pt">Telecine Touch HD</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <programme start="20200113003500 -0400" stop="20200113023500 -0400" channel="Telecine Premium">
     <title lang="pt">Batalha de Férias</title>
